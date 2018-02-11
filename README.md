@@ -30,7 +30,7 @@
 
    ```
 
-4. 用 Chrom 浏览器，观察发现，小说的文字都在 <xmp> <p>...</p> </xmp> 标签中
+4. 用 Chrom 浏览器，观察发现，小说的文字都在 <textarea> <p>...</p> </textare> 标签中
 
    ![](https://github.com/Oslomayor/Markdown-Imglib/blob/master/Imgs/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9.PNG?raw=true)
 
