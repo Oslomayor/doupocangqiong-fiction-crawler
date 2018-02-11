@@ -11,13 +11,14 @@
 
 2. 手动浏览，找到每一章节的 url 规律
 
-   > 第1章 http://www.doupoxs.com/doupocangqiong/2.html
-   > 第2章 http://www.doupoxs.com/doupocangqiong/5.html
-   > 第3章 http://www.doupoxs.com/doupocangqiong/6.html
-   > 第4章 http://www.doupoxs.com/doupocangqiong/7.html
+   > 第1章 http://www.doupoxs.com/doupocangqiong/2.html  
+   > 第2章 http://www.doupoxs.com/doupocangqiong/5.html  
+   > 第3章 http://www.doupoxs.com/doupocangqiong/6.html  
+   > 第4章 http://www.doupoxs.com/doupocangqiong/7.html  
    >  ...
-   > 第1623章 http://www.doupoxs.com/doupocangqiong/1664.html
-   > 最后一章 http://www.doupoxs.com/doupocangqiong/1665.html
+   > 第1623章 http://www.doupoxs.com/doupocangqiong/1664.html  
+   > 最后一章 http://www.doupoxs.com/doupocangqiong/1665.html  
+   > 
    >
 
    共 1600多 个页面, 除了第一个页面, 其余的 url 有规律
